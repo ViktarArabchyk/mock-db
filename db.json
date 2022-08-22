@@ -1,4 +1,7 @@
 {
+    "authorize": {
+        "profile-id": 1
+    },
     "profiles": [
         {
             "id": 1,
